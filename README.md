@@ -22,3 +22,14 @@ Bidirectional Telegram Messenger App for M5Cardputer
  * Instructions:
  * 1. Fill in your Wi-Fi information, Bot Token, and your own Chat ID.
  * 2. Upload the M5TM.ino code.
+
+
+RECEIVE MODE
+
+<img width="528" height="355" alt="image" src="https://github.com/user-attachments/assets/6c3d789c-02d1-4b5f-af0f-0624d2fbca3c" />
+
+
+SEND MODE
+
+<img width="525" height="323" alt="image" src="https://github.com/user-attachments/assets/a193f489-1bc6-46d9-886d-920433713847" />
+
